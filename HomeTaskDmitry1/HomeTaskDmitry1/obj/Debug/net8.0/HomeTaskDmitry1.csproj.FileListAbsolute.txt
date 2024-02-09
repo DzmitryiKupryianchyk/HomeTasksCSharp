@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\bin\Debug\net8.0\HomeTaskDmitry1.exe
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\bin\Debug\net8.0\HomeTaskDmitry1.deps.json
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\bin\Debug\net8.0\HomeTaskDmitry1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\bin\Debug\net8.0\HomeTaskDmitry1.dll
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\bin\Debug\net8.0\HomeTaskDmitry1.pdb
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.dll
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\refint\HomeTaskDmitry1.dll
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.pdb
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\HomeTaskDmitry1.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HomeTaskDmitry1\HomeTaskDmitry1\obj\Debug\net8.0\ref\HomeTaskDmitry1.dll
