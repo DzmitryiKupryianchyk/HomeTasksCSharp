@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\bin\Debug\net8.0\TryToGuess.exe
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\bin\Debug\net8.0\TryToGuess.deps.json
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\bin\Debug\net8.0\TryToGuess.runtimeconfig.json
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\bin\Debug\net8.0\TryToGuess.dll
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\bin\Debug\net8.0\TryToGuess.pdb
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.dll
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\refint\TryToGuess.dll
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.pdb
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\TryToGuess.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\TryToGuess\TryToGuess\obj\Debug\net8.0\ref\TryToGuess.dll
