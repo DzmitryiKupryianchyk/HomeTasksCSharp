@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\bin\Debug\net8.0\IsTheNumberEven.exe
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\bin\Debug\net8.0\IsTheNumberEven.deps.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\bin\Debug\net8.0\IsTheNumberEven.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\bin\Debug\net8.0\IsTheNumberEven.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\bin\Debug\net8.0\IsTheNumberEven.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\refint\IsTheNumberEven.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\IsTheNumberEven.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\IsTheNumberEven\obj\Debug\net8.0\ref\IsTheNumberEven.dll

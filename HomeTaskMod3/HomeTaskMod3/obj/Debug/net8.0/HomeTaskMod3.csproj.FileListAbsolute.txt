@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\bin\Debug\net8.0\HomeTaskMod3.exe
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\bin\Debug\net8.0\HomeTaskMod3.deps.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\bin\Debug\net8.0\HomeTaskMod3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\bin\Debug\net8.0\HomeTaskMod3.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\bin\Debug\net8.0\HomeTaskMod3.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\refint\HomeTaskMod3.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\HomeTaskMod3.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HomeTaskMod3\obj\Debug\net8.0\ref\HomeTaskMod3.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\bin\Debug\net8.0\AriphmeticOperators.exe
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\bin\Debug\net8.0\AriphmeticOperators.deps.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\bin\Debug\net8.0\AriphmeticOperators.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\bin\Debug\net8.0\AriphmeticOperators.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\bin\Debug\net8.0\AriphmeticOperators.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\refint\AriphmeticOperators.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\AriphmeticOperators.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\AriphmeticOperators\obj\Debug\net8.0\ref\AriphmeticOperators.dll

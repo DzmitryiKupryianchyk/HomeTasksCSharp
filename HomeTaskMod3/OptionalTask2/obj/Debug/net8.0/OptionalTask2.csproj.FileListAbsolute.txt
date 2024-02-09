@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\bin\Debug\net8.0\OptionalTask2.exe
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\bin\Debug\net8.0\OptionalTask2.deps.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\bin\Debug\net8.0\OptionalTask2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\bin\Debug\net8.0\OptionalTask2.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\bin\Debug\net8.0\OptionalTask2.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\refint\OptionalTask2.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\OptionalTask2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\OptionalTask2\obj\Debug\net8.0\ref\OptionalTask2.dll

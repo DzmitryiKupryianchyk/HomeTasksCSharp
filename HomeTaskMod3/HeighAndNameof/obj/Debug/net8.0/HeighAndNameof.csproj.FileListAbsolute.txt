@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\bin\Debug\net8.0\HeighAndNameof.exe
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\bin\Debug\net8.0\HeighAndNameof.deps.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\bin\Debug\net8.0\HeighAndNameof.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\bin\Debug\net8.0\HeighAndNameof.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\bin\Debug\net8.0\HeighAndNameof.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\refint\HeighAndNameof.dll
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.pdb
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\HeighAndNameof.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HomeTaskMod3\HeighAndNameof\obj\Debug\net8.0\ref\HeighAndNameof.dll
