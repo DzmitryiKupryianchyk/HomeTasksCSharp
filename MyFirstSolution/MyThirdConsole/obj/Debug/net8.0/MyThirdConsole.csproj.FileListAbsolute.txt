@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\bin\Debug\net8.0\MyThirdConsole.exe
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\bin\Debug\net8.0\MyThirdConsole.deps.json
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\bin\Debug\net8.0\MyThirdConsole.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\bin\Debug\net8.0\MyThirdConsole.dll
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\bin\Debug\net8.0\MyThirdConsole.pdb
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.dll
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\refint\MyThirdConsole.dll
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.pdb
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\MyThirdConsole.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MyFirstSolution\MyThirdConsole\obj\Debug\net8.0\ref\MyThirdConsole.dll

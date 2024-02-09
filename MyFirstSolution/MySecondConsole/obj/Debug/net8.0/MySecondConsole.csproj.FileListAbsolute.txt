@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\bin\Debug\net8.0\MySecondConsole.exe
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\bin\Debug\net8.0\MySecondConsole.deps.json
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\bin\Debug\net8.0\MySecondConsole.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\bin\Debug\net8.0\MySecondConsole.dll
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\bin\Debug\net8.0\MySecondConsole.pdb
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.dll
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\refint\MySecondConsole.dll
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.pdb
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\MySecondConsole.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MyFirstSolution\MySecondConsole\obj\Debug\net8.0\ref\MySecondConsole.dll
