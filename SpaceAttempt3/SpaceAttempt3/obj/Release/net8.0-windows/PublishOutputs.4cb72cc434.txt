@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\SpaceAttempt3\SpaceAttempt3\bin\Release\net8.0-windows\publish\SpaceAttempt3.exe
+C:\Users\Lenovo\source\repos\SpaceAttempt3\SpaceAttempt3\bin\Release\net8.0-windows\publish\SpaceAttempt3.dll
+C:\Users\Lenovo\source\repos\SpaceAttempt3\SpaceAttempt3\bin\Release\net8.0-windows\publish\SpaceAttempt3.deps.json
+C:\Users\Lenovo\source\repos\SpaceAttempt3\SpaceAttempt3\bin\Release\net8.0-windows\publish\SpaceAttempt3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SpaceAttempt3\SpaceAttempt3\bin\Release\net8.0-windows\publish\SpaceAttempt3.pdb
