@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask1Mod7", "HomeTask1Mod7\HomeTask1Mod7.csproj", "{BC673BCE-7D27-43B9-A6DD-29C32CE9C61E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{DE458EDB-D901-4BBA-A1DD-54023AC0434A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC673BCE-7D27-43B9-A6DD-29C32CE9C61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC673BCE-7D27-43B9-A6DD-29C32CE9C61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC673BCE-7D27-43B9-A6DD-29C32CE9C61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC673BCE-7D27-43B9-A6DD-29C32CE9C61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE458EDB-D901-4BBA-A1DD-54023AC0434A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE458EDB-D901-4BBA-A1DD-54023AC0434A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE458EDB-D901-4BBA-A1DD-54023AC0434A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE458EDB-D901-4BBA-A1DD-54023AC0434A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0721B41C-8DBF-4213-88A9-1E783A327104}
+	EndGlobalSection
+EndGlobal
