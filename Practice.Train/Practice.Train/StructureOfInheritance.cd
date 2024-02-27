@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Practice.Train.AbstractCarriage" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAgAAAAAAAAAAAAIAAAAEACEAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractCarriage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practice.Train.AbstractPassenger" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAACAAAAAA=</HashCode>
+      <FileName>AbstractPassenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practice.Train.AbstractTrain" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACIAAAAAAAIAgAAAAAAAgAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>AbstractTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practice.Train.Carriage" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAAgAAAAAAAAAAAAIAAAAEACEAAAAAAAAAAAA=</HashCode>
+      <FileName>Carriage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practice.Train.Passenger" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practice.Train.Train" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAACIABAAAAAIAgAAAAAAAgAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
