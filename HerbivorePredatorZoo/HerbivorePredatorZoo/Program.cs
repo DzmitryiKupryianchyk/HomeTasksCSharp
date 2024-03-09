@@ -16,16 +16,25 @@ namespace HerbivorePredatorZoo
                 //Thread.Sleep(20);
             }
             Console.WriteLine();
+            string simbaName = "Simba";
+            Lion simba = new Lion(simbaName);
+            string sharhanName = "Sharhan";
+            Tiger sharhan = new Tiger(sharhanName);
+            string baltoName = "Balto";
+            Wolf balto = new Wolf(baltoName);
+            string baluName = "Balu";
+            Bear balu = new Bear(baluName);
+            string lazyName = "Lazy";
+            Bear lazy = new Bear(lazyName);
 
-            Lion simba = new Lion();
-            Tiger sharhan = new Tiger();
-            Wolf balto = new Wolf();
-            Bear balu = new Bear();
-
-            Deer bambi = new Deer();
-            Rabbit rodger = new Rabbit();
-            Capibara capibara = new Capibara();
-            Quokka quokka = new Quokka();
+            string bambiName = "Bambi";
+            Deer bambi = new Deer(bambiName);
+            string rodgerName = "Rodger";
+            Rabbit rodger = new Rabbit(rodgerName);
+            string capibaraName = "Sly";
+            Capibara capibara = new Capibara(capibaraName);
+            string quokkaName = "Smile";
+            Quokka quokka = new Quokka(quokkaName);
 
             Zoo zoo = new Zoo();
             mark:
@@ -53,6 +62,8 @@ namespace HerbivorePredatorZoo
                         Thread.Sleep(1000);
                         balu.Live();
                         Thread.Sleep(1000);
+                        lazy.Live();
+                        Thread.Sleep(1000);
                         bambi.Live();
                         Thread.Sleep(1000);
                         rodger.Live();
@@ -69,6 +80,8 @@ namespace HerbivorePredatorZoo
                         zoo.Add(balto);
                         Thread.Sleep(20);
                         zoo.Add(balu);
+                        Thread.Sleep(20);
+                        zoo.Add(lazy);
                         Thread.Sleep(20);
                         zoo.Add(bambi);
                         Thread.Sleep(20);

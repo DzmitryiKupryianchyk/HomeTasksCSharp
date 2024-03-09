@@ -8,6 +8,10 @@ namespace HerbivorePredatorZoo
 {
     internal class Predator : Animal
     {
+        public Predator(string name) : base(name)
+        {
+        }
+
         protected void Hunt() 
         {
             Console.Write(" проголодался и собирается на охоту.  ");

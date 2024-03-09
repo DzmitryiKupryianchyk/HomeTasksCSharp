@@ -23,11 +23,21 @@ namespace HerbivorePredatorZoo
                 {
                     if (predator.Equals(animal)) 
                     {
-                        Console.WriteLine($"{type.Name} уже содержится в зоопарке.");
+                        Console.Write($"{type.Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write(animal.name);
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write(" уже содержится в зоопарке. ");
+                        Console.WriteLine();
                         goto mark;
                     }
                 }
-                Console.WriteLine($"{type.Name} поселен в вольер для хищников.");
+                Console.Write($"{type.Name} ");
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write(animal.name);
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.Write(" поселен в вольер для хищников. ");
+                Console.WriteLine();
                 aivaryForPredators.Add((Predator)animal);
             }
             else if (type.BaseType == typeof(HerbivoreAnimal)) 
@@ -36,12 +46,22 @@ namespace HerbivorePredatorZoo
                 {
                     if (herbivoreAnimal.Equals(animal))
                     {
-                        Console.WriteLine($"{type.Name} уже содержится в зоопарке.");
+                        Console.Write($"{type.Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write(animal.name);
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write(" уже содержится в зоопарке. ");
+                        Console.WriteLine();
                         goto mark;
                     }
                 }
                 aivaryForHerbivore.Add((HerbivoreAnimal)animal);
-                Console.WriteLine($"{type.Name} поселен в вольер для травоядных.");
+                Console.Write($"{type.Name} ");
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write(animal.name);
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.Write(" поселен в вольер для травоядных. ");
+                Console.WriteLine();
             }
             mark:;
         }
@@ -55,7 +75,10 @@ namespace HerbivorePredatorZoo
                 int iterCount = 1;
                 foreach (Predator animal in aivaryForPredators)
                 {
-                    Console.Write(iterCount + "-" + animal.GetType().Name + " ");
+                    Console.Write(iterCount + "-" + animal.GetType().Name +" ");
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.Write(animal.name + " ");
+                    Console.ForegroundColor = ConsoleColor.White;
                     iterCount++;
                 }
                 Console.WriteLine();
@@ -68,6 +91,9 @@ namespace HerbivorePredatorZoo
                 foreach (HerbivoreAnimal animal in aivaryForHerbivore)
                 {
                     Console.Write(iterCount + "-" + animal.GetType().Name + " ");
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.Write(animal.name + " ");
+                    Console.ForegroundColor = ConsoleColor.White;
                     iterCount++;
                 }
                 Console.WriteLine();
@@ -84,12 +110,18 @@ namespace HerbivorePredatorZoo
                 foreach (Predator animal in aivaryForPredators)
                 {
                     Console.Write(iterCount + "-" + animal.GetType().Name + " ");
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.Write(animal.name + " ");
+                    Console.ForegroundColor = ConsoleColor.White;
                     iterCount++;
                 }
                 Console.WriteLine();
                 foreach (HerbivoreAnimal animal in aivaryForHerbivore)
                 {
                     Console.Write(iterCount + "-" + animal.GetType().Name + " ");
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.Write(animal.name + " ");
+                    Console.ForegroundColor = ConsoleColor.White;
                     iterCount++;
                 }
                 Console.WriteLine();
@@ -99,35 +131,84 @@ namespace HerbivorePredatorZoo
                 switch (choice)
                 {
                     case ConsoleKey.D1:
-                        Console.WriteLine($"{aivaryForPredators[0].GetType().Name} выпущен на свободу.");
+                        Console.Write($"{aivaryForPredators[0].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForPredators[0].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
                         aivaryForPredators.RemoveAt(0);
                         break;
                     case ConsoleKey.D2:
-                        Console.WriteLine($"{aivaryForPredators[1].GetType().Name} выпущен на свободу.");
+                        Console.Write($"{aivaryForPredators[1].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForPredators[1].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
                         aivaryForPredators.RemoveAt(1);
                         break;
                     case ConsoleKey.D3:
-                        Console.WriteLine($"{aivaryForPredators[2].GetType().Name} выпущен на свободу.");
+                        Console.Write($"{aivaryForPredators[2].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForPredators[2].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
                         aivaryForPredators.RemoveAt(2);
                         break;
                     case ConsoleKey.D4:
-                        Console.WriteLine($"{aivaryForPredators[3].GetType().Name} выпущен на свободу.");
+                        Console.Write($"{aivaryForPredators[3].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForPredators[3].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
                         aivaryForPredators.RemoveAt(3);
                         break;
                     case ConsoleKey.D5:
-                        Console.WriteLine($"{aivaryForHerbivore[0].GetType().Name} выпущен на свободу.");
-                        aivaryForHerbivore.RemoveAt(0);
+                        Console.Write($"{aivaryForPredators[4].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForPredators[4].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
+                        aivaryForPredators.RemoveAt(4);
                         break;
                     case ConsoleKey.D6:
-                        Console.WriteLine($"{aivaryForHerbivore[1].GetType().Name} выпущен на свободу.");
-                        aivaryForHerbivore.RemoveAt(1);
+                        Console.Write($"{aivaryForHerbivore[0].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForHerbivore[0].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
+                        aivaryForHerbivore.RemoveAt(0);
                         break;
                     case ConsoleKey.D7:
-                        Console.WriteLine($"{aivaryForHerbivore[2].GetType().Name} выпущен на свободу.");
-                        aivaryForHerbivore.RemoveAt(2);
+                        Console.Write($"{aivaryForHerbivore[1].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForHerbivore[1].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
+                        aivaryForHerbivore.RemoveAt(1);
                         break;
                     case ConsoleKey.D8:
-                        Console.WriteLine($"{aivaryForHerbivore[3].GetType().Name} выпущен на свободу.");
+                        Console.Write($"{aivaryForHerbivore[2].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForHerbivore[2].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
+                        aivaryForHerbivore.RemoveAt(2);
+                        break;
+                    case ConsoleKey.D9:
+                        Console.Write($"{aivaryForHerbivore[3].GetType().Name} ");
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write($"{aivaryForHerbivore[3].name} ");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write($"выпущен на свободу.");
+                        Console.WriteLine();
                         aivaryForHerbivore.RemoveAt(3);
                         break;
                     case ConsoleKey.Escape:

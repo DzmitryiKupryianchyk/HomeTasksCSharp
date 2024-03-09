@@ -8,6 +8,11 @@ namespace HerbivorePredatorZoo
 {
     internal class Animal
     {
+        public string name { get; set; }
+        public Animal(string name) 
+        {
+            this.name = name;
+        }
        public virtual void Live() { }
        public virtual void Rest() { }
     }
