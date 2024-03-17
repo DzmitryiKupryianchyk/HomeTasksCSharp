@@ -6,14 +6,22 @@ using System.Threading.Tasks;
 
 namespace Mobile
 {
-    internal class Life : MobileNetwork
+    internal class Life : LocalNetworks
     {
         private double callsCost = 0;
         private double smsCost = 0.2;
         private double internetCost = 20.00;
+        public bool roaming;
+
 
         public override void ShowServices()
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write($"Вас приветстует мобильный оператор");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write($" {Name}");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine($". Благодарим вас за пользование нашими услугами.");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write("Доступные услуги: ");
             Console.ForegroundColor = ConsoleColor.White;
@@ -38,5 +46,6 @@ namespace Mobile
             Console.WriteLine("Отличный");
             Console.ForegroundColor = ConsoleColor.White;
         }
+        
     }
 }

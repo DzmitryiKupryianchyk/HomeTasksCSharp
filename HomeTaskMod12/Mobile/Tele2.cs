@@ -6,42 +6,41 @@ using System.Threading.Tasks;
 
 namespace Mobile
 {
-    internal class Velcom : LocalNetworks
+    internal class Tele2 : ForeignNetworks
     {
         private double callsCost = 0;
-        private double smsCost = 0.3;
-        private double internetCost = 30.00;
-        
+        private double smsCost = 0.7;
+        private double internetCost = 150.00;
         public override void ShowServices()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.Write($"Вас приветстует мобильный оператор");
+            Console.Write($"Du välkomnas av mobiloperatören");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write($" {Name}");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine($". Благодарим вас за пользование нашими услугами.");
+            Console.WriteLine($". Tack för att du använder våra tjänster.");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write("Доступные услуги: ");
+            Console.Write("Tillgängliga tjänster: ");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.Write($"Звонки во все сети - ");
+            Console.Write($"Samtal till alla nätverk - ");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write($"{callsCost} ");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine($"руб.");
-            Console.Write($"                  СМС - ");
+            Console.WriteLine($"sek.");
+            Console.Write($"                  SMS - ");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write($"{smsCost} ");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine($"руб.");
-            Console.Write($"                  Безлимитный интернет - ");
+            Console.WriteLine($"sek.");
+            Console.Write($"                  Obegränsat Internet - ");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write($"{internetCost} ");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine($"руб.");
+            Console.WriteLine($"sek.");
             Thread.Sleep(1000);
-            Console.Write("Уровень сигнала - ");
+            Console.Write("Signalstyrka - ");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Отличный");
+            Console.WriteLine("Utmärkt");
             Console.ForegroundColor = ConsoleColor.White;
         }
     }

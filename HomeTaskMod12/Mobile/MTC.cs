@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 
 namespace Mobile
 {
-    internal class MTC : MobileNetwork
+    internal class MTC : LocalNetworks
     {
         private double callsCost = 0;
         private double smsCost = 0.25;
         private double internetCost = 25.00;
+        
 
         public override void ShowServices()
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write($"Вас приветстует мобильный оператор");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write($" {Name}");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine($". Благодарим вас за пользование нашими услугами.");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write("Доступные услуги: ");
             Console.ForegroundColor = ConsoleColor.White;

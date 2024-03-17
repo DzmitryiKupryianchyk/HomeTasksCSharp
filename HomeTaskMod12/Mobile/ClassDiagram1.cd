@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mobile.ElisaEE" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ElisaEE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.ForeignNetworks">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ForeignNetworks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.Kievstar" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Kievstar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.Life" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAQAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Life.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.MobileNetwork">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAABAAAAAQAAQAAAIAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MobileNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.MobilePhone&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAoQIAAAAAAAAQAAAgAAAAQAAA=</HashCode>
+      <FileName>MobilePhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.MTC" Collapsed="true">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>MTC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.Orange" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Orange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.Program" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.Tele2" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Tele2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.Velcom" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Velcom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mobile.LocalNetworks" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocalNetworks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
