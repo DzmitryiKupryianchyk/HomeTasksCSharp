@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/StyleCop.json",
+  "settings": {
+    "indentation": {
+      "useTabs": true,
+      "tabSize": 4
+    }
+  }
+}
